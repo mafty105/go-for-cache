@@ -1,0 +1,25 @@
+# バイナリ
+main
+__debug_bin
+
+# 依存関係
+vendor/
+
+# ログファイル
+*.log
+
+# 環境変数
+.env
+
+# macOS
+.DS_Store
+
+# エディタ関連
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ビルド成果物
+/bin
+/dist
